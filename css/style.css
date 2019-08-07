@@ -2,6 +2,8 @@ body {
   text-align: center;
   font-family: sans-serif;
   background-color: #d6f5f5;
+  color: ##0a2929;
+
 }
 
 h1 {
@@ -10,7 +12,9 @@ h1 {
 
 p {}
 
-.animal {}
+.animal {
+  display: inline-block;
+}
 
 .animal img {
   height: 250px;
@@ -18,6 +22,7 @@ p {}
 
 .animal h2 {
   border: 2px solid #196666;
-  margin-left: 45%;
-  margin-right: 45%;
+  margin-left: 20%;
+  margin-right: 20%;
+
 }
