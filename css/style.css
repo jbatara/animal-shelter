@@ -1,32 +1,23 @@
-body{
+body {
   text-align: center;
   font-family: sans-serif;
   background-color: #d6f5f5;
 }
 
-h1{ text-align: center;
-
-
+h1 {
+  text-align: center;
 }
 
-p{
+p {}
 
+.animal {}
+
+.animal img {
+  height: 250px;
 }
 
-.animal{
-
-
-}
-
-.animal img{
-height: 250px;
-
-}
-
-.animal h2{
+.animal h2 {
   border: 2px solid #196666;
   margin-left: 45%;
   margin-right: 45%;
-
-
 }
